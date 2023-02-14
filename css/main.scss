@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#Slider {
+    background-image: url(https://travelicious.bold-themes.com/main-demo/wp-content/uploads/sites/2/2018/09/bgn-home-slider-04.jpg);
+     background-size:cover; 
+     height: auto;
+     height: 650px;
+     padding-bottom: 113px;
+     width: 100%;
+     text-align: center;
+     overflow: hidden;
+    //  position: relative;
+     z-index: -1;      
+ }
+
+
+.Search{
+       margin-top: 100px;    
+       position: relative;
+       
+
+}
+
+
+
+.Search h3{
+    position:absolute;
+}
+
+
+ #Slider .text_middle{
+    box-sizing: content-box;
+    margin-top: 225px;
+    
+    font-family: 'Inter', sans-serif;  
+    padding: 10px 0px 50px 0px; 
+    
+}
+
+.text_middle h4{
+    font-family: "Barlow Semi Condensed";
+    color: #ffffffff;
+}
+
+
+.text_middle hr{
+    border: 1px solid;
+}
+
+
+#Slider hr{
+    width: 4%;
+    margin: 19.5px auto;
+
+}
+
+
+.first_span{
+    margin-left: 10px;
+   
+}
+
+
+
+
+.first_top1{
+    font-weight: bold;
+}
+
+
+#Slider .text_middle span{
+    font-size: 48px;
+    color: #fff;
+}   
+
+
+.text_middle p{
+    color: #fff;
+}
+
+
+#Slider .botton a{
+      padding: 14px 22px;
+      color: #FFFFFF;
+      font-size: 12px;
+      font-family: Montserrat,Arial,Helvetica,sans-serif;
+      font-weight: 700;
+}
+
+
+
+
+
+.botton .first_a{
+      background-color: #8DC645;
+}
+
+
+.botton .last_a{
+    background-color: #1976BC;
+}
+
+
+
+
+
+
+#botton_find{
+    background-color: yellowgreen;
+    width: 80%;
+    height: 125px;
+    position: absolute;
+    top: 104%;
+    right: 10%;
+    z-index: 11;
+
+}
+
+
+#cards{
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+
+.all_box{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 100px;
+}
+
+.all_box .box{
+    width: 17%;
+}
+
+
+.box img{
+    width: 100%;
+}
+
